@@ -9,7 +9,7 @@ To install and run this application locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/axelarnetwork/cross-chain-airdrop-dapp.git
+git clone https://github.com/ayo-klaytn/mini-klayswap-example.git
 ```
 
 2. Navigate to the project directory:
